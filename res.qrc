@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/copy.PNG</file>
+        <file>image/cut.PNG</file>
+        <file>image/new.PNG</file>
+        <file>image/open.PNG</file>
+        <file>image/paste.PNG</file>
+        <file>image/actFont.PNG</file>
+        <file>image/actCascade.PNG</file>
+        <file>image/actMDIViewMode.PNG</file>
+        <file>image/actTile.PNG</file>
+        <file>image/closeAll.PNG</file>
+        <file>image/actExit.PNG</file>
+    </qresource>
+</RCC>
